@@ -1,0 +1,16 @@
+C:\Users\suellen\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\suellen\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\suellen\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\suellen\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\suellen\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\MeuJogodaVelha.csproj.GenerateResource.Cache
+C:\Users\suellen\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\suellen\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\suellen\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\MeuJogodaVelha.csprojResolveAssemblyReference.cache
+C:\Users\suellen\Documents\Visual Studio 2010\Projects\MeuJogoDaVelha\WindowsFormsApplication1\bin\Debug\MeuJogoDaVelha.exe
+C:\Users\suellen\Documents\Visual Studio 2010\Projects\MeuJogoDaVelha\WindowsFormsApplication1\bin\Debug\MeuJogoDaVelha.pdb
+C:\Users\suellen\Documents\Visual Studio 2010\Projects\MeuJogoDaVelha\WindowsFormsApplication1\obj\x86\Debug\MeuJogodaVelha.csprojResolveAssemblyReference.cache
+C:\Users\suellen\Documents\Visual Studio 2010\Projects\MeuJogoDaVelha\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\suellen\Documents\Visual Studio 2010\Projects\MeuJogoDaVelha\WindowsFormsApplication1\obj\x86\Debug\MeuJogoDaVelha.Properties.Resources.resources
+C:\Users\suellen\Documents\Visual Studio 2010\Projects\MeuJogoDaVelha\WindowsFormsApplication1\obj\x86\Debug\MeuJogodaVelha.csproj.GenerateResource.Cache
+C:\Users\suellen\Documents\Visual Studio 2010\Projects\MeuJogoDaVelha\WindowsFormsApplication1\obj\x86\Debug\MeuJogoDaVelha.exe
+C:\Users\suellen\Documents\Visual Studio 2010\Projects\MeuJogoDaVelha\WindowsFormsApplication1\obj\x86\Debug\MeuJogoDaVelha.pdb
